@@ -7,7 +7,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=puniiith25&show_icons=true&locale=en" alt="punith" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puniiith25&" alt="puniiith25" /></p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
