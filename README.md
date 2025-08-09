@@ -3,14 +3,12 @@
 - 🌱 I’m currently learning App development  ...
 .
 
-<h3 align="left">GitHub Stats:</h3>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=puniiith25&show_icons=true&locale=en" alt="punith" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=puniiith25&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=puniiith25&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=puniiith25&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puniiith25&" alt="puniiith25" /></p>
-
 
 
 # 💻 Tech Stack:
