@@ -2,11 +2,6 @@
 - 👀 I’m interested in software development ...
 - 🌱 I’m currently learning App development ...
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=puniiith25&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=puniiith25&theme=default&hide_border=false)<br/>
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
