@@ -2,6 +2,11 @@
 - 👀 I’m interested in software development ...
 - 🌱 I’m currently learning App development ...
 
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/puniiith_00) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:puniiith25@gmail.com) 
+
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=puniiith25&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=puniiith25&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=puniiith25&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
