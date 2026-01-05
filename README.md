@@ -9,6 +9,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=puniiith25)](https://git.io/streak-stats)
 
 
 # 📊 GitHub Stats:
