@@ -8,7 +8,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/puniiith_00)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:puniiith25@gmail.com)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats:-
 ![](https://nirzak-streak-stats.vercel.app/?user=puniiith25&theme=dark&hide_border=false)<br/>
 
 # 💻 Tech Stack::
