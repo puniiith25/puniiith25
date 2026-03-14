@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @punith
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning FullStack development and AI
+- 🌱 I’m currently learning FullStack development 
 
 
 ## 🌐 Socials Network:
